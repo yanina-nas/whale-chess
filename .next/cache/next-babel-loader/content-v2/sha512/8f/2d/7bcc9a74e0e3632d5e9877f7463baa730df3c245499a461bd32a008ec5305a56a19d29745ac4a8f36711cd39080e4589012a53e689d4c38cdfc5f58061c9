@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const ItemTypes = {\n  ANIMAL: 'animal'\n};","map":{"version":3,"sources":["/Users/folly/dev/Games/whale-chess/pages/constants.ts"],"names":["ItemTypes","ANIMAL"],"mappings":"AAAA,OAAO,MAAMA,SAAS,GAAG;AACrBC,EAAAA,MAAM,EAAE;AADa,CAAlB","sourcesContent":["export const ItemTypes = {\n    ANIMAL: 'animal'\n};\n\n"]},"metadata":{},"sourceType":"module"}
